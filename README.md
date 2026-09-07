@@ -1,11 +1,13 @@
 <div align="center">
 
 <div style="background: linear-gradient(135deg, #98FFB3, #D9FFE2); padding: 25px; border-radius: 15px;">
-<div align="center" style="background-color:#ADEBB3; padding:20px; border-radius:12px;">
+<div style="background-color:#ADEBB3; padding:20px; border-radius:12px;">
 
 <h1>Hi, I'm Lanz Dominic M. Bayona 👋</h1>
 
 </div>
+</div>
+
 </div>
 
 I'm a BSIT graduate with a background in Information Technology, web development, and technical support. I'm curious about how technology works behind the scenes, which led me to explore software development, cloud computing, and different areas of IT.
@@ -14,7 +16,7 @@ Currently, I'm learning more about Microsoft Azure, cloud computing, and modern 
 
 ## 💻 Background
 
-I have a background in web development, databases, cloud technologies, technical support, and IT projects. I enjoy learning how different technologies work together to build practical solutions.
+I have a background in web development, databases, cloud technologies, technical support, and IT projects.
 
 ## 🚀 Interests
 
@@ -44,7 +46,7 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-ADEBB3?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
@@ -55,5 +57,3 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
     <img src="https://img.shields.io/badge/Email-ADEBB3?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
-</div>

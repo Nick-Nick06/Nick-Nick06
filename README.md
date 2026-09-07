@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Lanz Dominic M. Bayona 👋
 
 I'm a BSIT graduate with a background in Information Technology, web development, and technical support. I'm curious about how technology works behind the scenes, which led me to explore software development, cloud computing, and different areas of IT.
 

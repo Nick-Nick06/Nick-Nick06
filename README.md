@@ -1,12 +1,10 @@
 <div align="center">
 
-<div style="background: linear-gradient(135deg, #98FFB3, #D9FFE2); padding: 25px; border-radius: 15px;">
-<div style="background-color:#ADEBB3; padding:20px; border-radius:12px;">
+<h1 style="background: linear-gradient(135deg, #d9f99d, #86efac, #5eead4); padding: 20px; border-radius: 15px;">
 
-<h1>Hi, I'm Lanz Dominic M. Bayona 👋</h1>
+Hi, I'm Lanz Dominic M. Bayona
 
-</div>
-</div>
+</h1>
 
 </div>
 

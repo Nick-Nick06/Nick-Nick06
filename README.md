@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nick-Nick06/Nick-Nick06/main/Coffee%20Working%20GIF%20by%20David%20Altizer.gif"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 <h1 style="background: linear-gradient(135deg, #d9f99d, #86efac, #5eead4); padding: 20px; border-radius: 15px;">

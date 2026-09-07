@@ -48,12 +48,16 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 
 <p>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-ADEBB3?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-ADEBB3?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-ADEBB3?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+

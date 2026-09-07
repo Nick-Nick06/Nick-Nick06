@@ -116,14 +116,16 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 
 ### ✨ Minty Portfolio Glow
 
-<!-- Add project screenshot here -->
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <!-- Add Minty project screenshot here -->
 </p>
 
 <p align="center">
-  <b>HTML • CSS • JavaScript</b>
+  <img src="https://skillicons.dev/icons?i=react,js,cloudflare,gmail" />
+</p>
+
+<p align="center">
+  <b>React.js • JavaScript • Grok AI • Cloudflare • Gmail</b>
 </p>
 
 <p align="center">

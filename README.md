@@ -88,20 +88,23 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
   </a>
 </p>
 
-## 🚀 Featured Projects
-
 ### 🚨 TAP — Emergency Alert System
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nick-Nick06/Nick-Nick06/main/efde2fca-3b03-4847-96c7-93e1e5246a2a.jfif" width="800">
 </p>
 
-<a href="https://github.com/crisstin92-ui/web-tap">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,firebase,androidstudio,java" />
+  <img src="https://skillicons.dev/icons?i=googlemaps" />
+</p>
 
-### ✨ Minty Portfolio Glow
+<p align="center">
+  <b>React.js • JavaScript • Firebase • Android Studio • Java • Google Maps API • Google ML Kit</b>
+</p>
 
-<a href="https://github.com/Nick-Nick06/minty-profolio-glow">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/crisstin92-ui/web-tap">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>

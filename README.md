@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Nick-Nick06/Nick-Nick06/main/Coffee%20Working%20GIF%20by%20David%20Altizer.gif"
-    width="100%"
+    width="85%"
   />
 </p>
 

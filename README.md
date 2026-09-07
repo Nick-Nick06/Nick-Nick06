@@ -47,17 +47,18 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 ## 🌐 Connect with Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/lanzbayona/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:lanzdominicbayona@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_FACEBOOK_URL">
+  <a href="https://www.facebook.com/lanz.dominic.bayona.2025">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/Nick-Nick06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 

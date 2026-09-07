@@ -88,6 +88,10 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
   </a>
 </p>
 
+## 🚀 Featured Projects
+
+### 🌐 Web & Mobile Projects
+
 ### 🚨 TAP — Emergency Alert System
 
 <p align="center">
@@ -96,7 +100,6 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,firebase,androidstudio,java" />
-  <img src="https://skillicons.dev/icons?i=googlemaps" />
 </p>
 
 <p align="center">
@@ -105,6 +108,26 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 
 <p align="center">
   <a href="https://github.com/crisstin92-ui/web-tap">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Minty Portfolio Glow
+
+<!-- Add project screenshot here -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <b>HTML • CSS • JavaScript</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nick-Nick06/minty-profolio-glow">
     <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

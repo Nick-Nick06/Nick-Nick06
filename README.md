@@ -12,16 +12,48 @@ I'm a BSIT graduate with a background in Information Technology, web development
 
 Currently, I'm learning more about Microsoft Azure, cloud computing, and modern development technologies while continuing to improve my programming and problem-solving skills.
 
-## Connect with Me
+## 💻 Background
+
+I have a background in web development, databases, cloud technologies, technical support, and IT projects. I enjoy learning how different technologies work together to build practical solutions.
+
+## 🚀 Interests
+
+* ☁️ Cloud Computing & Microsoft Azure
+* 💻 Web & Application Development
+* 🐍 Python & Programming
+* 🗄️ Databases & Data Engineering
+* 🤖 AI & Machine Learning
+* 🔧 IT Support & Troubleshooting
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Python, JavaScript, Java, C, SQL
+**Frontend:** HTML, CSS, React.js, Tailwind CSS, Bootstrap
+**Backend:** Node.js, Firebase
+**Cloud:** Microsoft Azure, Vercel
+**Databases:** MySQL, Firebase Firestore
+**Tools:** VS Code, Android Studio, PyCharm, Figma, Git & GitHub
+
+## 📚 Currently Learning ☁️
+
+I'm currently focusing on strengthening my knowledge in **cloud computing and Microsoft Azure**, while exploring areas such as data engineering, cloud infrastructure, monitoring, security, and DevOps.
+
+## 🎯 Goals
+
+My goal is to continuously learn, build real-world projects, and grow as an IT professional while exploring where I can make the most impact in the technology industry.
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ADEBB3?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-ADEBB3?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-ADEBB3?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
+
+</div>

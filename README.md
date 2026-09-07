@@ -88,7 +88,7 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
   </a>
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects and Repositories
 
 ### 🌐 Web & Mobile Projects
 

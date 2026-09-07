@@ -125,7 +125,7 @@ My goal is to continuously learn, build real-world projects, and grow as an IT p
 </p>
 
 <p align="center">
-  <b>React.js • JavaScript • Grok AI • Cloudflare • Gmail</b>
+  <b>React.js • JavaScript • Groq AI • Cloudflare • Gmail</b>
 </p>
 
 <p align="center">

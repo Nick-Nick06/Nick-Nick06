@@ -5,7 +5,11 @@
   />
 </p>
 
-## 🌐 Connect with Me
+<div align="center">
+
+🌐 Connect with Me
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lanzbayona/">
@@ -21,6 +25,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
 
 <div align="center">
 
